@@ -1,0 +1,113 @@
+body {
+
+    background-image: url("bkground.jpg");
+}
+
+h1 {
+
+    font-size: 80px;
+    text-align: left;
+    height: 75px;
+    margin: 15px;
+}
+header {
+    font-size: 80px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 20px;
+    font-family: 'Comfortaa', cursive;
+    border-style: 3px solid black;
+    color: white;
+
+}
+
+.container {
+    position: relative;
+    background-color: #EFCA08;
+    height: 500px;
+    width: 850px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0;
+    font-family: 'Gamja Flower';
+    font-size: 20px;
+    max-width: 800px;
+}
+
+.description {
+    background-color: #20948B;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+
+}
+
+h3 {
+    font-family: 'Gamja Flower';
+    color: black;
+    font-size: 30px;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+
+.game-area {
+    text-orientation: center;
+    font-size: 30px;
+}
+
+#guessWordArea {
+    color: black;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-color: black;
+    text-align: center;
+}
+
+#wordArea {
+    color: black;
+    font-size: 30px;
+    height: 70px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    letter-spacing: 2px;
+
+}
+
+#guessed-words {
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+p {
+    margin: 0 10px 0 10px;
+}
+
+footer {
+    font-family: "Comfortaa";
+    color: white;
+
+}
+
+a:link {
+  text-decoration: none;
+
+}
+
+#letters {
+    font-size: 50px;
+    
+}
